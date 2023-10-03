@@ -21,15 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "1970/01/01/vuepress-modern-blog-theme/index.html",
-    "revision": "ef68de53bfb222052ef6ea844d8c978b"
+    "revision": "2f3ba972d1e2f63043567c6ecde3edfd"
   },
   {
     "url": "404.html",
-    "revision": "4751867346b6a779f915ad4a36ae614b"
+    "revision": "d5c3860155360fa06a62eff7335fd2b7"
   },
   {
-    "url": "assets/css/0.styles.ce1c978d.css",
-    "revision": "a63f500156dc648ddff772aba5c0fd82"
+    "url": "assets/css/0.styles.4c6a4a74.css",
+    "revision": "2581665caead77aa198831153fa23a16"
   },
   {
     "url": "assets/fonts/element-icons.535877f5.woff",
@@ -2208,12 +2208,12 @@ self.__precacheManifest = [
     "revision": "355fb7dd497e43428a9abf579f259d0c"
   },
   {
-    "url": "assets/js/3.ef7d4b05.js",
-    "revision": "bad8ac084ee1518efddbd83fa9586853"
+    "url": "assets/js/3.19e56e97.js",
+    "revision": "9d7a20b137f8a59530056a448ce5a6b7"
   },
   {
-    "url": "assets/js/4.12390f1b.js",
-    "revision": "58f063ffcc09c844be1364841054b135"
+    "url": "assets/js/4.f1a4c26d.js",
+    "revision": "c373122ddcb0ec66bc143ab35f605d9c"
   },
   {
     "url": "assets/js/5.cb563bd7.js",
@@ -2232,12 +2232,12 @@ self.__precacheManifest = [
     "revision": "e58265901bc21f2be314eb61cecb34ce"
   },
   {
-    "url": "assets/js/9.9f8b9cd1.js",
-    "revision": "ca58723f5aaa5f9f63a55233f64b891c"
+    "url": "assets/js/9.12f13b10.js",
+    "revision": "2e77cf8d43db22b51dd54bb811133a1b"
   },
   {
-    "url": "assets/js/app.12b82514.js",
-    "revision": "e9736c925bf7529a9a0e8e57b8797db1"
+    "url": "assets/js/app.3bd8568b.js",
+    "revision": "5f87049c199265c526af1f5d24a38845"
   },
   {
     "url": "assets/js/vuejs-paginate.a4c24a0e.js",
@@ -2253,19 +2253,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a33cd57eb35704abf92bd8f6df864d95"
+    "revision": "8557850590f87099245a3c762d9d8419"
   },
   {
     "url": "tag/index.html",
-    "revision": "2a1911b275429616774c4f74bb71a9b7"
+    "revision": "c1fb1a7e066134582a6b5e5e5abb809e"
   },
   {
     "url": "tag/Python/index.html",
-    "revision": "6d698c978f1b899df091487616cce877"
+    "revision": "ef521e2af473c5b6d769f5c081259279"
   },
   {
     "url": "tag/Vue/index.html",
-    "revision": "d8f2860695e85e3e624ee4339827a82e"
+    "revision": "ebe044d7e9bb6a5f3ded83e8542e973c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
